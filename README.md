@@ -13,4 +13,4 @@ A tech enthusiast with passion to solve problems and to make things. Proven skil
 - https://www.linkedin.com/in/harika-b-v/
 - https://medium.com/@harikabv
 - https://www.behance.net/harikabhaskaram
-- https://harikabv.com/
+- https://harikabv.in/
