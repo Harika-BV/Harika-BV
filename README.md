@@ -2,11 +2,11 @@
 
 ![](https://github.com/Harika-BV/Harika-BV/blob/master/harikabv.gif)
 ## About me
-A tech enthusiast with a passion to solve problems and build products. Worked as an Android app developer and UI/UX Designer in budding start-ups. I believe that I am a versatile learner and can get going with any sort of work. 
+Highly skilled Software development professional bringing enormous talents for software design, development and integration. Dedicated and detail-oriented employee who works at fast pace to meet tight deadlines. Organized and dependable candidate successful at managing multiple priorities with a positive attitude.
 
-- 🔭 Currently working as Full Stack Engineer in [Novartis](https://www.novartis.in/)
+Know more about me at : https://harikabv.in/
+- 🔭 Currently working as Applications Engineer at Oracle
 - 🔭 Completed B.Tech (Computer Science and Engineering with spl in Bioinformatics) from VIT Vellore with a CGPA of 9.41 
-- 🔭 I love to explore different technologies and will be happy to collaborate on projects
 
 
 ## Connect with me
